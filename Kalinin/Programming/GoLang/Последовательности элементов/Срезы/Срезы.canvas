@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"208cb9e9684a52ff","type":"file","file":"Cache/Pasted image 20240704143213.png","x":-400,"y":-367,"width":1100,"height":607},
+		{"id":"7ac0c521678787c7","type":"file","file":"Programming/GoLang/Последовательности элементов/Длина.md","x":-400,"y":-660,"width":400,"height":200},
+		{"id":"56d95f0f8d9723ca","type":"file","file":"Programming/GoLang/Последовательности элементов/Ёмкость.md","x":40,"y":-660,"width":420,"height":200},
+		{"id":"cf30946e1dfdf50e","type":"file","file":"Cache/Pasted image 20240704143655.png","x":-400,"y":300,"width":1128,"height":380},
+		{"id":"e49131a3b20c6dd7","type":"file","file":"Cache/Pasted image 20240704143716.png","x":1000,"y":-287,"width":1203,"height":447},
+		{"id":"1391b02d1fadaa0c","type":"text","text":"**Ошибки**","x":760,"y":-138,"width":180,"height":150,"color":"1"},
+		{"id":"21fb59e59ffd3dfb","type":"file","file":"Cache/Pasted image 20240705100608.png","x":1000,"y":300,"width":1135,"height":380}
+	],
+	"edges":[
+		{"id":"857783370bb683f0","fromNode":"1391b02d1fadaa0c","fromSide":"right","toNode":"e49131a3b20c6dd7","toSide":"left"},
+		{"id":"b441bc81da2b82b0","fromNode":"208cb9e9684a52ff","fromSide":"right","toNode":"1391b02d1fadaa0c","toSide":"left"}
+	]
+}
